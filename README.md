@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushree Bondia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Strong academic background, excellent communicator, and love crafting solutions. Thrive in collaborative environments, driven by a desire to contribute meaningfully and continuously learn. Let's code the future together! 🚀✨</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
