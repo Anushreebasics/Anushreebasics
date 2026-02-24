@@ -18,29 +18,16 @@ With experience spanning deep learning, multimodal AI, and scalable web systems,
 
 ## My GitHub Stats
 
+
 <p align="center">
-  <a href="https://github.com/Anushreebasics">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"/>
-  </a>
-  <a href="https://github.com/Anushreebasics">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&layout=compact&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Anushreebasics&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Anushreebasics">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushreebasics&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Anushreebasics">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anushreebasics&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Anushreebasics">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushreebasics&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Anushreebasics&theme=github-dark&hide_border=true"/>
 </p>
