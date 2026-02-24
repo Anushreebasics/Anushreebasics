@@ -23,5 +23,5 @@ With experience spanning deep learning, multimodal AI, and scalable web systems,
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushreebasics&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushreebasics&bg_color=0d1117&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true" />
 </p>
