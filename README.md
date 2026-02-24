@@ -19,16 +19,32 @@ With experience spanning deep learning, multimodal AI, and scalable web systems,
 <b>My GitHub Stats</b>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anushreebasics&label=Profile%20Views&color=0891b2&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/Anushreebasics">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117" height="170"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117"/>
   </a>
   <a href="https://github.com/Anushreebasics">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" height="170"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&layout=compact&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Anushreebasics">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushreebasics&theme=dark&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushreebasics&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anushreebasics">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anushreebasics&theme=darkhub&no-frame=true&row=1&column=6&margin-w=15"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anushreebasics">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushreebasics&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true"/>
   </a>
 </p>
