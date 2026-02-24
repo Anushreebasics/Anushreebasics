@@ -16,11 +16,7 @@ With experience spanning deep learning, multimodal AI, and scalable web systems,
 </p>
 
 
-<b>My GitHub Stats</b>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anushreebasics&label=Profile%20Views&color=0891b2&style=flat" alt="profile views"/>
-</p>
+## My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Anushreebasics">
