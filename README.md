@@ -22,4 +22,17 @@ With experience spanning deep learning, multimodal AI, and scalable web systems,
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Anushreebasics"><img src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anushreebasics's GitHub stats" /></a>
+<p align="center">
+  <a href="https://github.com/Anushreebasics">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117" height="170"/>
+  </a>
+  <a href="https://github.com/Anushreebasics">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&bg_color=0d1117" height="170"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anushreebasics">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anushreebasics&theme=dark&hide_border=true&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" />
+  </a>
+</p>
