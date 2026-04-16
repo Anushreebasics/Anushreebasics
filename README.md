@@ -80,9 +80,9 @@ I design end-to-end solutions—from data preprocessing and model training to ba
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anushreebasics&bg_color=0d1117&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&bg_color=0d1117&color=00ff88&line=00ff88&point=00ff88&area=true&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
