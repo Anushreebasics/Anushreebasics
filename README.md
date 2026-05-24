@@ -84,6 +84,7 @@ I design end-to-end solutions—from data preprocessing and model training to ba
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushreebasics&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anushreebasics&theme=github)
 
 ---
 
