@@ -70,7 +70,7 @@
 
 ---
 
-**[ ⚡️ Keep building. Keep shipping. ⚡️]**
+**( ⚡️ Keep building. Keep shipping. ⚡️)**
 
 <div align="center">
 
