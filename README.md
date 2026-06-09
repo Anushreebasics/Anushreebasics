@@ -16,6 +16,7 @@
 
 🎓 **B.Tech CSE (AI)** student at **IGDTUW**  
 🤖 Passionate about **AI systems that actually ship**  
+🔬 Researcher on **Prism** — KL-guided contrastive training for LLM math reasoning  
 🧠 Exploring **Deep Learning, Multimodal AI & NLP**  
 🛠️ Building end-to-end: from model training to deployed products  
 📍 Based in **Delhi, India**  
@@ -28,6 +29,12 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🐍 Contribution
+
+![Snake](https://github.com/Anushreebasics/Anushreebasics/raw/output/github-snake-dark.svg)
 
 ---
 
