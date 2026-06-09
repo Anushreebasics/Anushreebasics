@@ -44,20 +44,6 @@
 
 ---
 
-## 🚀 Projects
-
-[![Prism](https://img.shields.io/badge/Prism-KL%20Contrastive%20Training-007bff?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=333333)](https://github.com/Anushreebasics) — KL-guided contrastive framework for improving mathematical reasoning in LLMs via LoRA fine-tuning.
-
-[![DeepFake Detection](https://img.shields.io/badge/DeepFake%20MultiFace-Detection-FF4B4B?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=333333)](https://github.com/Anushreebasics/DeepFake_MultiFace_Videos) — Multi-face deepfake video detection using deep learning.
-
-[![Multimodal Video Indexing](https://img.shields.io/badge/Multimodal%20Video%20Indexing-Python-28a745?style=for-the-badge&logo=python&logoColor=white&labelColor=333333)](https://github.com/Anushreebasics/multimodal-video-indexing) — Video indexing and search using multimodal AI techniques.
-
-[![Gesture Mouse](https://img.shields.io/badge/Gesture%20Controlled%20Mouse-OpenCV-00bcd4?style=for-the-badge&logo=python&logoColor=white&labelColor=333333)](https://github.com/Anushreebasics/Gesture-Controlled-mouse-and-finger-air-writing) — Real-time gesture-controlled mouse and air-writing using computer vision.
-
-[![IPL Score Predictor](https://img.shields.io/badge/IPL%20Score%20Predictor-ML-ff9800?style=for-the-badge&logo=python&logoColor=white&labelColor=333333)](https://github.com/Anushreebasics/IPL-Score-predictor) — Live IPL score prediction using machine learning models.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**  
@@ -84,7 +70,7 @@
 
 ---
 
-## ⚡️ Keep building. Keep shipping. ⚡️
+**[ ⚡️ Keep building. Keep shipping. ⚡️]**
 
 <div align="center">
 
